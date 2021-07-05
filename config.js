@@ -3,7 +3,7 @@
 module.exports = {
   url: `https://caliendo.dev`,
   description: `Le blog sans prétention d'un artisan du web.`,
-  pathPrefix: 'caliendojulien',
+  pathPrefix: '',
   title: `caliendo.dev`,
   disqusShortname: '',
   postsPerPage: 15,
