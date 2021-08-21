@@ -35,3 +35,4 @@ DEFAULT_PAGINATION = 10
 
 GITHUB_URL = 'http://github.com/caliendojulien/'
 OUTPUT_PATH = 'docs/'
+THEME = 'notmyideatuning'
