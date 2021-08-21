@@ -37,3 +37,4 @@ GITHUB_URL = 'http://github.com/caliendojulien/'
 OUTPUT_PATH = 'docs/'
 THEME = 'notmyideatuning'
 DELETE_OUTPUT_DIRECTORY = True
+STATIC_PATHS = ['images', 'static']
