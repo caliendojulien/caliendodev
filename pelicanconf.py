@@ -35,6 +35,6 @@ DEFAULT_PAGINATION = 10
 
 GITHUB_URL = 'http://github.com/caliendojulien/'
 OUTPUT_PATH = 'docs/'
-THEME = 'notmyideatuning'
+THEME = 'themeModifie/notmyideatuning'
 DELETE_OUTPUT_DIRECTORY = True
 STATIC_PATHS = ['images', 'static']
